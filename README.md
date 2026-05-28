@@ -1,26 +1,27 @@
 # auto-autism
 
-A small project idea for organizing and tracking recurring household tasks.
+A project to index all public information related to autism, starting with the research literature on PubMed.
 
 ## Problem
 
-It’s easy to forget routine chores, bills, and maintenance tasks when life gets busy.
+Families and caregivers often need reliable autism research, but the information is scattered, hard to compare, and rarely organized around a child’s specific needs.
 
 ## What it does
 
-This project could help users:
+This project aims to:
 
-- create repeating reminders for chores and errands
-- track completion history
-- group tasks by room, priority, or frequency
-- surface what is due soon
+- analyze public autism papers from PubMed
+- annotate papers with structured metadata
+- organize research by topic, population, intervention, and evidence quality
+- help parents find the most relevant research for their child’s needs
 
 ## Simple starting point
 
-- task list with due dates
-- recurring schedule support
-- lightweight status tracking
+- PubMed paper ingestion
+- metadata extraction and tagging
+- searchable research index
+- parent-friendly filtering and recommendations
 
 ## Goal
 
-Reduce mental load by making routine responsibilities easier to manage.
+Make autism research easier to discover, understand, and use in real-world decision making.
