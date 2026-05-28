@@ -1,27 +1,35 @@
 # auto-autism
 
-A project to index all public information related to autism, starting with the research literature on PubMed.
+`auto-autism` is a project focused on indexing public information related to autism, beginning with the research literature available on PubMed. The goal is to make relevant research easier to discover, understand, and organize for families, caregivers, and others looking for trustworthy information.
 
-## Problem
+## Why this project exists
 
-Families and caregivers often need reliable autism research, but the information is scattered, hard to compare, and rarely organized around a child’s specific needs.
+Autism research is widely distributed across journals, databases, and topic areas. That makes it difficult to compare findings, identify the most relevant studies, and translate the literature into practical decisions. This project is intended to bring that information into one place and structure it in a way that is easier to search and filter.
 
 ## What it does
 
-This project aims to:
+The project aims to:
 
-- analyze public autism papers from PubMed
-- annotate papers with structured metadata
-- organize research by topic, population, intervention, and evidence quality
-- help parents find the most relevant research for their child’s needs
+- collect public autism-related papers from PubMed
+- extract useful metadata from each paper
+- annotate papers with structured tags and topic labels
+- organize research by population, intervention, outcomes, and evidence quality
+- support parent-friendly search and filtering
+- surface the most relevant material for a specific need or question
 
-## Simple starting point
+## Initial scope
+
+The first version of the project is centered on:
 
 - PubMed paper ingestion
-- metadata extraction and tagging
-- searchable research index
-- parent-friendly filtering and recommendations
+- metadata extraction and enrichment
+- searchable research indexing
+- simple filtering and recommendation workflows
 
-## Goal
+## Long-term goal
 
-Make autism research easier to discover, understand, and use in real-world decision making.
+The long-term goal is to create a clear, practical layer over autism research that helps people find better answers faster. Instead of browsing papers one by one, users should be able to explore structured research by topic and compare evidence more efficiently.
+
+## Current status
+
+This repository is in an early stage and is expected to grow as the ingestion, indexing, and presentation layers are developed.
