@@ -17,6 +17,14 @@ The project aims to:
 - support parent-friendly search and filtering
 - surface the most relevant material for a specific need or question
 
+## Linear integration
+
+This repository is connected to Linear for agent-driven task execution.
+
+- Issues added to the `paper annotator` project can be picked up by the agent.
+- When work is completed, the corresponding Linear issue is updated with progress and outcomes.
+- If an issue cannot be completed, the issue is updated with the blocker and any partial progress.
+
 ## Initial scope
 
 The first version of the project is centered on:
