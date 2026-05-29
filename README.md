@@ -1,10 +1,10 @@
 # auto-autism
 
-`auto-autism` is a project focused on indexing public information related to autism, beginning with the research literature available on PubMed. The goal is to make relevant research easier to discover, understand, and organize for families, caregivers, and others looking for trustworthy information.
+`auto-autism` indexes public autism-related research, starting with papers from PubMed. The goal is to make relevant studies easier to discover, understand, and organize for families, caregivers, and others looking for trustworthy information.
 
 ## Why this project exists
 
-Autism research is widely distributed across journals, databases, and topic areas. That makes it difficult to compare findings, identify the most relevant studies, and translate the literature into practical decisions. This project is intended to bring that information into one place and structure it in a way that is easier to search and filter.
+Autism research is spread across journals, databases, and topic areas. That makes it hard to compare findings, identify the most relevant studies, and translate the literature into practical decisions. This project brings that information into one place and structures it for easier search and filtering.
 
 ## What it does
 
@@ -16,6 +16,14 @@ The project aims to:
 - organize research by population, intervention, outcomes, and evidence quality
 - support parent-friendly search and filtering
 - surface the most relevant material for a specific need or question
+
+## Linear integration
+
+This repository is connected to Linear for agent-driven task execution.
+
+- Issues added to the `paper annotator` project can be picked up by the agent.
+- When work is completed, the corresponding Linear issue is updated with progress and outcomes.
+- If an issue cannot be completed, the issue is updated with the blocker and any partial progress.
 
 ## Initial scope
 
