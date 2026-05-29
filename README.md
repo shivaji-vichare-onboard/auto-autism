@@ -1,10 +1,10 @@
 # auto-autism
 
-`auto-autism` is a project focused on indexing public information related to autism, beginning with the research literature available on PubMed. The goal is to make relevant research easier to discover, understand, and organize for families, caregivers, and others looking for trustworthy information.
+`auto-autism` indexes public autism-related research, starting with papers from PubMed. The goal is to make relevant studies easier to discover, understand, and organize for families, caregivers, and others looking for trustworthy information.
 
 ## Why this project exists
 
-Autism research is widely distributed across journals, databases, and topic areas. That makes it difficult to compare findings, identify the most relevant studies, and translate the literature into practical decisions. This project is intended to bring that information into one place and structure it in a way that is easier to search and filter.
+Autism research is spread across journals, databases, and topic areas. That makes it hard to compare findings, identify the most relevant studies, and translate the literature into practical decisions. This project brings that information into one place and structures it for easier search and filtering.
 
 ## What it does
 
